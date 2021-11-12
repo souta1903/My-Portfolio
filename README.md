@@ -8,7 +8,7 @@ https://my-portfolio1903.netlify.app/
 - CSS
 
 # 制作理由
-- HTMLとCSSを使用し、WEBサイト制作のスキルの向上を目指す。
+- HTMLとCSSを使用し、WEBサイト制作のスキルの向上。
 - 初めてのWEBサイト制作を通して、WEBサイト制作の体系、仕組みを学ぶ。
 - WEBサイトで頻繁に使用されるものを実装を通して学ぶ。
   - dl、dt、ddタグを使用し、「News」欄を作成。
