@@ -3,7 +3,9 @@
 # URL
 https://my-portfolio1903.netlify.app/
 
-
+# 開発言語
+- HTML
+- CSS
 
 # 制作理由
 - HTMLとCSSを使用し、WEBサイト制作のスキルの向上を目指す。
