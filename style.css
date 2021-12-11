@@ -54,11 +54,10 @@ header{
 
 /* メインビジュアル */
 picture > img{
-  width: 80%;
+  width: 100%;
   max-width: 1920px;
   height: 420px;
   object-fit: cover;
-  background-image: cover;
 }
 
 /* About */
